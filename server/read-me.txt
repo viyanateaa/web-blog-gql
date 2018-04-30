@@ -1,0 +1,9 @@
+npm start in terminal
+http://localhost:3000/graphql
+
+
+mutation RootMutationType {
+	createUser (name: "viyan" ){
+    name
+  }
+}
